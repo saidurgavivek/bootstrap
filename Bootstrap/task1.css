@@ -1,0 +1,27 @@
+p{
+	font-size: 20px;
+    text-align: left;
+}
+#d{
+	color: green;
+}
+#a{
+	color: grey;
+	font-size: 10px;
+}
+#b{
+	color: grey;
+}
+#c{
+	color: grey;
+	text-align: right;
+}
+#e{
+	color: grey;
+	font-size: 10px;
+	text-align: right;
+}
+#f{
+	text-align: right;
+	color: grey;
+}

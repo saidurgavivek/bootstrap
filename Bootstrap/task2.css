@@ -1,0 +1,10 @@
+.row img{
+    float: left;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+   }
+   .card{
+    float: left;
+    width: 18rem;
+   }

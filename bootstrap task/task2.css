@@ -1,0 +1,114 @@
+h1{
+	text-transform: uppercase;
+}
+.container{
+	background-color: lightgray;
+}
+#a{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#b{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#c{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#d{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#e{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#f{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#g{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#h{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#i{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	width: 200px;
+	height: 100px;
+}
+#j{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	position: relative;
+	bottom: 50px;
+	left: 220px;
+	width: 200px;
+	height: 100px;
+
+	
+}
+#k{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	position: relative;
+	width: 200px;
+	height: 100px;
+	bottom: 80px;
+	left: 220px;
+}
+#l{
+	background-color: white;
+	float: left;
+	margin-right:20px ;
+	border-radius: 10px;
+	position: relative;
+	width: 200px;
+	height: 100px;
+	bottom: 100px;
+	left: 220px;
+
+}
